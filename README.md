@@ -5,6 +5,7 @@ Creates and posts advertisements
 
 # How to Use
 1. Create a .env file in the /src/resources folder, and add the necessary information:
+<br />
 a) The user's email
 b) The user's password
 c) The city of the user
