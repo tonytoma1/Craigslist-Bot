@@ -4,8 +4,8 @@ Creates and posts advertisements
 # Please note that this program only works if you have google chrome version 79 with the driver installed.
 
 # How to Use
+<pre>
 1. Create a .env file in the /src/resources folder, and add the necessary information:
-<pre/>
 a) The user's email
 b) The user's password
 c) The city of the user
@@ -18,6 +18,7 @@ g) The website url. For example a website url could be: bellingham.craigslist.or
 a) Add an image to the "/src/resounces" folder
 b) change the imageName variable in the main function in the App class.
 
+</pre>
 
 
 
