@@ -1,7 +1,7 @@
 package com.web.scraper;
 
 /*
- * The craigslist advertisement that describes the ads description, title and much more. 
+ * The craigslist advertisement that describes the ads description and title. 
  */
 public class Advertisement {
 	// The title of the advertisement.
